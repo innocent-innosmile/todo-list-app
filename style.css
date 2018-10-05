@@ -1,0 +1,31 @@
+body{
+    background-color: yellow;
+    color:royalblue;
+    background-image: url("imagesLQSQ7F5E.jpg");
+    animation: animation_name 8s infinite;
+}
+@-webkit-keyframes animation_name form{
+    background-size:0px 0px;
+}
+ul{
+    display: inline;
+    font-size: 15px
+}
+table {
+
+    width: 100%;
+border-collapse: collapse;
+
+}
+tr,
+td,
+th {
+    border: 1px solid black;
+    
+    height: 10px;
+}
+input{
+    height: 10px;
+    color: red;
+}
+
